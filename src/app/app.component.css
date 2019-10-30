@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body1{
+    background-color:cornflowerblue;
+    height: 8%;
+    width: fit-content;
+    vertical-align: top;
+}
+.body2{
+    background-color:black;
+    height: 60%;
+    width: fit-content;
+    align-content: center;
+}
+.body3{
+    margin-left: 100px;
+}
+.d1{
+    float: left;
+    width: 20vw
+}
+.d2{
+    float: right;
+}
